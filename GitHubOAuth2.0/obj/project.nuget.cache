@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aOvgPMaFiZG7K8imWBXDwbsvbKZRvZmX16Zc0OcwxaJo+2h9wd/yvGbJaZuAmlYLWCRPqVhIh32DAbDnK+086w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dmitr\\CBIT\\Projects\\GitHubOAuth2.0\\GitHubOAuth2.0\\GitHubOAuth2.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dmitr\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Dmitr\\.nuget\\packages\\octokit\\0.50.0\\octokit.0.50.0.nupkg.sha512"
+  ],
+  "logs": []
+}
